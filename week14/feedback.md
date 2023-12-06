@@ -3,7 +3,7 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 
 
 
-## Final Score: 8.5/10
+## Final Score: 8/10
 
 ## Part 1 - Merging CMS Files
 * 2 pts - You correctly merged the data in the CMS files into the right shape
